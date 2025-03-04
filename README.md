@@ -1,4 +1,4 @@
-# <p align="center">Bekn-bio</p>
+# <p align="center">Codes Lesson 4: HTML Closure</p>
 
 
 ![Project](https://img.shields.io/badge/Project-002-green)
