@@ -5,7 +5,7 @@
 ![Class](https://img.shields.io/badge/Class-004-orange)
 ![language](https://img.shields.io/badge/HTML_5-orange)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue)
-![GitHub Update](https://img.shields.io/badge/Update-2.1-_green)
+![GitHub Update](https://img.shields.io/badge/Update-2.2-_green)
 
 <img src="./assets/Thumb.png" alt="exemplo imagem">
 
